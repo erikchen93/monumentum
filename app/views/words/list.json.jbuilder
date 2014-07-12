@@ -1,0 +1,1 @@
+json.partial! 'erik', words: @words
